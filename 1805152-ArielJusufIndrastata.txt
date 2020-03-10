@@ -1,0 +1,23 @@
+Saya, Ariel Jusuf Indrastata mengerjakan Tugas Praktikum 1 (2020)
+dalam mata kuliah Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan kecurangan 
+seperti yang telah dispesifikasikan. Aamiin.
+
+Fitur yang sudah dikerjakan :
+- Login
+- Logout
+- Menu Katalog
+- Menampilkan Barang di menu utama
+
+Kesulitan :
+- Menampilkan barang menggunakan foreach
+- fitur search
+- mencari directory untuk menampilkan gambar produk 
+- Berpindah menu dari menu utama ke detail
+
+Hal baru yang dipelajari :
+- buka dan tutup form
+- list object
+- cara menampilkan list object
+- kegunaan foreach
+- dynamic controls
